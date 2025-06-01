@@ -333,8 +333,9 @@ export const Bio = {
       date: "Dec 2023 - March 2024",
       description:
         "Mern-Stack website for Doctor Appointments, simplifying scheduling and management",
-      image:
-      require("src/Images/Doctor Appointment.png"),
+      image: "https://drive.google.com/uc?export=view&id=1Ux-ApOsMCzY26IkuwqPQlRRK99wFu-81",
+
+      // require("src/Images/Doctor Appointment.png"),
         // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
       tags: [
         "Javascript",
@@ -351,8 +352,7 @@ export const Bio = {
       date: "Jun 2023 - Jul 2023",
       description:
         "Hotel Booking Application is a frontend page where people can find their hotel according to their comfort",
-      image:
-      require("src/Images/Hotel Booking.png"),
+      image:"https://drive.google.com/uc?export=view&id=17AviPO1BmyhZkDd8Wws0ifEbc-0kHoSr",
       
         // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
       tags: [

@@ -352,7 +352,7 @@ export const Bio = {
       description:
         "Hotel Booking Application is a frontend page where people can find their hotel according to their comfort",
       image:
-      require("./HotelBooking.png"),
+      require("./images/Hotel Booking.png"),
         // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
       tags: [
         "Javascript",

@@ -334,7 +334,7 @@ export const Bio = {
       description:
         "Mern-Stack website for Doctor Appointments, simplifying scheduling and management",
       image:
-      require("https://drive.google.com/file/d/1Ux-ApOsMCzY26IkuwqPQlRRK99wFu-81/view?usp=sharing"),
+      require("src/Images/Doctor Appointment.png"),
         // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
       tags: [
         "Javascript",
@@ -352,7 +352,7 @@ export const Bio = {
       description:
         "Hotel Booking Application is a frontend page where people can find their hotel according to their comfort",
       image:
-      require("https://drive.google.com/file/d/17AviPO1BmyhZkDd8Wws0ifEbc-0kHoSr/view?usp=sharing"),
+      require("src/Images/Hotel Booking.png"),
       
         // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
       tags: [

@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/KulBoy6122",
     resume:
-      "https://drive.google.com/file/d/12rd02T2W8TXAdlLUQiTSiQv9kGLH-abP/view?usp=sharing",
+      "https://drive.google.com/file/d/1XFWqM6qBlIFINjz5z60AQ9J_0jGH2Pzm/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sarthak-kulkarni-336910200/",
     // twitter: "https://twitter.com/RishavChanda",
     insta: "https://www.instagram.com/sarthak_kulkarnii/",
@@ -179,6 +179,24 @@ export const Bio = {
     {
       id: 0,
       img: "https://metageeks.tech/wp-content/uploads/2023/10/Metageeks-Technologies-Logo.png",
+      role: "Software development Engineer",
+      company: "Brad Technology (Brad Group).",
+      date: "Jun 2024 - March 2025",
+      desc: "Designing and implementing server-side logic to handle complex app requirements and ensure smooth data flow between Shopify's APIs using Remix and the efficiency of data handling and API integration has enhanced overall app performance by 40%",
+      skills: [
+        "NextJs",
+        "React",
+        "Shopify API",
+        "CSS",
+        "JavaScript",
+        
+        
+      ],
+      doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    },
+    {
+      id: 1,
+      img: "https://metageeks.tech/wp-content/uploads/2023/10/Metageeks-Technologies-Logo.png",
       role: "Fullstack Developer Intern",
       company: "MetaGeeks Technologies Pvt. Ltd.",
       date: "Dec 2023 - Jun 2024",
@@ -195,7 +213,7 @@ export const Bio = {
       doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
     },
     {
-      id: 1,
+      id: 2,
       img: "https://d12aarmt01l54a.cloudfront.net/cms/images/Media-20230721113005/140-140.png",
       role: "Web Developer Intern",
       company: "CamfyVisions Innovations Pvt. Ltd",
@@ -311,6 +329,24 @@ export const Bio = {
   export const projects = [
     {
       id: 1,
+      title: "Doctor Appointment System",
+      date: "Dec 2023 - March 2024",
+      description:
+        "Mern-Stack website for Doctor Appointments, simplifying scheduling and management",
+      image:
+      require("./images/Doctor Appointment.png"),
+        // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
+      tags: [
+        "Javascript",
+        "React Js",
+       
+      ],
+      category: "web app",
+      github: "https://github.com/KulBoy6122/Doc-Appointment-Sys",
+      webapp: "https://doc-appointment-sys-one.vercel.app/login",
+    },
+    {
+      id: 2,
       title: "Hotel Booking Application FrontEnd",
       date: "Jun 2023 - Jul 2023",
       description:
@@ -325,7 +361,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/KulBoy6122/Hotel-Reservation-React",
-      webapp: "",
+      webapp: "https://hotel-reservation-react-alpha.vercel.app/",
     },
     // {
     //   id: 0,

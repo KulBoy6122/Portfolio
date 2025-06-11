@@ -329,11 +329,31 @@ export const Bio = {
   export const projects = [
     {
       id: 1,
+      title: "Yumm",
+      date: " March 2024",
+      description:
+        "Frontend application of the Fast Food Restaurant Using Html,CSS and vanilla JS",
+      image: "https://raw.githubusercontent.com/KulBoy6122/Portfolio/main/Screenshot%202025-06-11%20232540.png",
+
+      // require("src/Images/Doctor Appointment.png"),
+        // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
+      tags: [
+        "Javascript",
+        "HTML",
+        "CSS"
+       
+      ],
+      category: "web app",
+      github: "https://github.com/KulBoy6122/Yumm",
+      webapp: "https://yumm-psi.vercel.app/",
+    },
+    {
+      id: 2,
       title: "Doctor Appointment System",
       date: "Dec 2023 - March 2024",
       description:
         "Mern-Stack website for Doctor Appointments, simplifying scheduling and management",
-      image: "https://drive.google.com/uc?export=view&id=1Ux-ApOsMCzY26IkuwqPQlRRK99wFu-81",
+      image: "https://raw.githubusercontent.com/KulBoy6122/Portfolio/main/Screenshot%202025-06-01%20190826.png",
 
       // require("src/Images/Doctor Appointment.png"),
         // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
@@ -347,12 +367,12 @@ export const Bio = {
       webapp: "https://doc-appointment-sys-one.vercel.app/login",
     },
     {
-      id: 2,
+      id: 3,
       title: "Hotel Booking Application FrontEnd",
       date: "Jun 2023 - Jul 2023",
       description:
         "Hotel Booking Application is a frontend page where people can find their hotel according to their comfort",
-      image:"https://drive.google.com/uc?export=view&id=17AviPO1BmyhZkDd8Wws0ifEbc-0kHoSr",
+      image:"https://raw.githubusercontent.com/KulBoy6122/Portfolio/main/Screenshot%202025-06-01%20190826.png",
       
         // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
       tags: [
@@ -362,6 +382,24 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/KulBoy6122/Hotel-Reservation-React",
+      webapp: "https://hotel-reservation-react-alpha.vercel.app/",
+    },
+    {
+      id: 4,
+      title: "Live Chatting App",
+      date: "Jun 2023 - Jul 2023",
+      description:
+        "Developed a real-time live chatting application using Convex for database management, real-time updates, and cloud functions. Utilized Next.js App Router to build responsive and interactive user interfaces for smooth navigation. Integrated Clerk for secure user authentication, ensuring robust access control and data privacy. The application delivers fast, reliable communication with a focus on performance and user experience.",
+      image:"https://raw.githubusercontent.com/KulBoy6122/Portfolio/main/Screenshot%202025-06-11%20232900.png",
+      
+        // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
+      tags: [
+        "Javascript",
+        "React Js",
+       
+      ],
+      category: "web app",
+      github: "https://github.com/KulBoy6122/WhatsApp-Clone",
       webapp: "https://hotel-reservation-react-alpha.vercel.app/",
     },
     // {

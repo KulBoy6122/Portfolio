@@ -372,7 +372,7 @@ export const Bio = {
       date: "Jun 2023 - Jul 2023",
       description:
         "Hotel Booking Application is a frontend page where people can find their hotel according to their comfort",
-      image:"https://raw.githubusercontent.com/KulBoy6122/Portfolio/main/Screenshot%202025-06-01%20190826.png",
+      image:"https://raw.githubusercontent.com/KulBoy6122/Portfolio/main/Screenshot%202025-06-01%20194451.png",
       
         // "https://drive.google.com/file/d/1UVAdOrRd6V6mVh4sChA3zPmOFDSVPKJn/view?usp=sharing",
       tags: [

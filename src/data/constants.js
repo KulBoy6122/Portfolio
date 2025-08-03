@@ -1,15 +1,16 @@
 export const Bio = {
     name: "Sarthak Kulkarni",
     roles: [
-      "Full Stack Developer",
-      "UI/UX Designer",
-      "Programmer",
+      "Front-End Developer",
+      "Back-End Developer",
+      "FullStack Developer",
+        "Programmer"
     ],
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/KulBoy6122",
     resume:
-      "https://drive.google.com/file/d/17fSfRhwjCLZ5fOYEcuNULYO-F8GZl1OI/view?usp=sharing",
+      "https://drive.google.com/file/d/18-CJUaz8j91KCgcG9aUpet5sI02QHLiI/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sarthakkulkarni612/",
     // twitter: "https://twitter.com/RishavChanda",
     insta: "https://www.instagram.com/sarthak_kulkarnii/",
@@ -301,9 +302,9 @@ export const Bio = {
       id: 0,
       img: "https://upload.wikimedia.org/wikipedia/commons/6/6e/IIITP_logo.jpg",
       school: "Indian Institute of Information Technology, Pune",
-      date: "Dec 2020 - Jun 2025",
-      grade: "7.51 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at IIIT Pune. I have completed 7 semesters and have a CGPA of 7.51. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+      date: "Aug 2020 - Jun 2025",
+      grade: "7.65 CGPA",
+      desc: "I have graduated with a Bachelor's degree in Computer Science and Engineering at IIIT Pune. I have completed 8 semesters and have a CGPA of 7.65. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     },
     {
@@ -402,6 +403,25 @@ export const Bio = {
       github: "https://github.com/KulBoy6122/WhatsApp-Clone",
       webapp: "https://hotel-reservation-react-alpha.vercel.app/",
     },
+{
+  id: 5,
+  title: "EduNest",
+  date: "May 2025",
+  description:
+    "A fully responsive E-learning platform built with React.js and Next.js, featuring modular components, smooth scroll navigation, and Framer Motion animations.",
+  image: "https://raw.githubusercontent.com/KulBoy6122/Portfolio/main/Screenshot%202025-08-04%20000309.png",
+  tags: [
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "shadcn/ui",
+    "Framer Motion"
+  ],
+  category: "web app",
+  github: "https://github.com/KulBoy6122/Edu-learning-website",
+  webapp: "https://edu-learning-website.vercel.app/"
+},
+
     // {
     //   id: 0,
     //   title: "Podstream",
